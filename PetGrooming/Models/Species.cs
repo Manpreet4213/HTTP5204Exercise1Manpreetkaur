@@ -20,4 +20,4 @@ namespace PetGrooming.Models
         //Representing the "Many" in (One Species to many Pets)
         public ICollection<Pet> Pets { get; set; }
     }
-}
+}  
